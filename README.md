@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on React Native course.
+- 🌱 I’m currently learning Full Stacke development.
+- 👯 I’m looking to collaborate on programmer co-ops.
+- 🤔 I’m looking for help with finding work.
+- 💬 Ask me about rocketry, D&D, and/or foreign countries I've lived in like Thailand and Indonesia.
+
 
 <!--
 **Whytehorse2022/Whytehorse2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
