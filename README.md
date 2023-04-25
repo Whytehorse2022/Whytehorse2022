@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on React Native course.
+- 🔭 I’m currently working on Backend Node course.
 - 🌱 I’m currently learning Full Stack development.
 - 👯 I’m looking to collaborate on programmer co-ops.
 - 🤔 I’m looking for help with finding work.
