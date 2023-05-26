@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Backend Node course.
-- 🌱 I’m currently learning Full Stack development.
+- 🔭 I’m currently working on refactoring a kickstarter clone to use mongoDB.
+- 🌱 I just finished learning Full Stack development at Nucamp.
 - 👯 I’m looking to collaborate on programmer co-ops.
 - 🤔 I’m looking for help with finding work.
-- 💬 Ask me about rocketry, D&D, and/or foreign countries I've lived in like Thailand and Indonesia.
+- 💬 Ask me about rocketry, D&D, and/or foreign countries I've lived in Thailand and Indonesia.
 
 
 <!--
